@@ -50,5 +50,5 @@ app.use((err,req,res,next)=>{
 })
 
 //PORT LISTENING
-
+       
 app.listen(PORT,()=>{console.log("Listening to the server on http://localhost:3000")})
